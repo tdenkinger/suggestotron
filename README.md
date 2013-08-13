@@ -1,1 +1,1 @@
-This is the base Railsbridge demonstration applcation build during a typical event.
+This is the base Railsbridge demonstration application build during a typical event.
